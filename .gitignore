@@ -25,3 +25,4 @@ client/node_modules
 .env
 api/env
 venv
+api/sites/library.test/site_config.json

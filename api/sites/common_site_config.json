@@ -1,5 +1,6 @@
 {
  "background_workers": 1,
+ "developer_mode": true,
  "file_watcher_port": 6787,
  "frappe_user": "yihune",
  "gunicorn_workers": 17,
