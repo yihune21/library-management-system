@@ -23,6 +23,7 @@ client/node_modules
 *.sln
 *.sw?
 .env
-api/env
+server/env
+server/apps/frappe
 venv
-api/sites/library.test/site_config.json
+# server/sites/library.test/site_config.json
